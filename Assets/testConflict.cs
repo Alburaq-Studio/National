@@ -10,9 +10,9 @@ public class testConflict : MonoBehaviour
     void Start()
     {
 //<<<<<<< HEAD
-        print("gintama better than one piece ");
+        print("gintama is less fun than one piece ");
 //=======
-        print("one piece not best anime");
+        print("one piece is best anime");
 //>>>>>>> d1e3cbca277369a44988941edb48308c36c15c15
     }
 
