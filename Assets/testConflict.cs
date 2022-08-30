@@ -13,5 +13,5 @@ public class testConflict : MonoBehaviour
     }
 
     // Update is called once per frame
-    
+
 }
