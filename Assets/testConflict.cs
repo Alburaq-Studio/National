@@ -11,6 +11,7 @@ public class testConflict : MonoBehaviour
     {
 //<<<<<<< HEAD
         print("gintama better than one piece ");
+        print("gintama is the only ONE ");
 //=======
         print("one piece not best anime");
 //>>>>>>> d1e3cbca277369a44988941edb48308c36c15c15
