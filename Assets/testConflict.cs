@@ -9,7 +9,7 @@ public class testConflict : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        print("kill me");
+        print("gintama best anime");
     }
 
     // Update is called once per frame
